@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\EmployeeManagement\PhaseLogin\PhaseLogin\bin\Debug\PhaseLogin.exe.config
+C:\Users\User\source\repos\EmployeeManagement\PhaseLogin\PhaseLogin\bin\Debug\PhaseLogin.exe
+C:\Users\User\source\repos\EmployeeManagement\PhaseLogin\PhaseLogin\bin\Debug\PhaseLogin.pdb
+C:\Users\User\source\repos\EmployeeManagement\PhaseLogin\PhaseLogin\obj\Debug\PhaseLogin.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\EmployeeManagement\PhaseLogin\PhaseLogin\obj\Debug\PhaseLogin.Properties.Resources.resources
+C:\Users\User\source\repos\EmployeeManagement\PhaseLogin\PhaseLogin\obj\Debug\PhaseLogin.csproj.GenerateResource.cache
+C:\Users\User\source\repos\EmployeeManagement\PhaseLogin\PhaseLogin\obj\Debug\PhaseLogin.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EmployeeManagement\PhaseLogin\PhaseLogin\obj\Debug\PhaseLogin.exe
+C:\Users\User\source\repos\EmployeeManagement\PhaseLogin\PhaseLogin\obj\Debug\PhaseLogin.pdb
+C:\Users\User\source\repos\EmployeeManagement\PhaseLogin\PhaseLogin\obj\Debug\PhaseLogin.frmLogin.resources
